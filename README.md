@@ -10,3 +10,23 @@ CRACK INSTAGRAM
  
 </p>
 <ing align="right" alt="Coding" width="400" src="https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif">
+## Installation
+
+* [Linux](https://drive.google.com/file/d/1IbP1CHRwOzUKHyq0AZz9MbuzjQKhGdtL/view?usp=drivesdk) - [Termux](https://f-droid.org/repo/com.termux_118.apk)
+
+  ```
+  $ pkg update -y && pkg upgrade -y
+  $ pkg install python
+  $ pip install requests
+  $ pip install rich
+  $ pip install bs4
+  $ git clone https://github.com/Asep-Yusup/Instagram.git
+  $ cd Instagram
+  $ python instaIG.py
+  ```
+  - Running on Termux
+
+  ```
+  $ cd dump
+  $ python instaIG.py
+  ```
