@@ -21,7 +21,7 @@ CRACK INSTAGRAM
   $ pip install requests
   $ pip install rich
   $ pip install bs4
-  $ git clone https://github.com/Asep-Yusup/Instagram.git
+  $ git clone https://github.com/Bjorka-6X/Instagram.git
   $ cd Instagram
   $ python instaIG.py
   ```
