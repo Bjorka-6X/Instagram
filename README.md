@@ -23,11 +23,12 @@ CRACK INSTAGRAM
   $ pip install bs4
   $ git clone https://github.com/Bjorka-6X/Instagram.git
   $ cd Instagram
-  $ python instaIG.py
+  $ python run.py
   ```
   - Running on Termux
 
   ```
   $ cd dump
-  $ python instaIG.py
+  $ git pull
+  $ python run.py
   ```
