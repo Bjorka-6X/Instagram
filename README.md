@@ -28,7 +28,7 @@ CRACK INSTAGRAM
   - Running on Termux
 
   ```
-  $ cd dump
+  $ cd Instagram
   $ git pull
   $ python run.py
   ```
